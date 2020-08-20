@@ -6,7 +6,8 @@ function App() {
 
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Final day of React 2</h1>
+      <img src="https://i.redd.it/rmy9aany3sv41.png" alt="learning react meme"></img>
       <h2>
         Deployed with{' '}
         <a
